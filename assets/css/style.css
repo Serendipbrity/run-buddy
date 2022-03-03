@@ -81,10 +81,7 @@
   footer a {
     color: #024e76;
   }
-  section {
-    padding: 60px;
-    
-  }
+  
 
   /* Hero Style Start */
   .hero  {
@@ -163,13 +160,18 @@
 
   /* Sections */
 
+  section {
+    padding: 60px;
+    
+  }
+
   .section-title {
     font-size: 55px;
-    display: inline-block;
-    padding: 0 100px 20px 100px;
     border-bottom: 3px solid;
-    margin-bottom: 35px;
-    
+    padding-bottom: 20px;
+    text-align: center;
+    margin: 0 auto 35px auto;
+    width: 50%;
   }
   
   .primary-border {
@@ -182,9 +184,7 @@
 
   /* What We Do Section */
 
-  .intro {
-    text-align: center;
-  }
+
 
   .intro p {
     line-height: 1.7;
@@ -192,6 +192,7 @@
     width: 80%;
     font-size: 20px;
     margin: 0 auto;
+    text-align: center;
   }
 
  
@@ -199,7 +200,7 @@
   /* What you do section */
 
   .steps {
-    text-align: center;
+  
     background: #fce138;
   }
 
@@ -228,7 +229,7 @@
   }
 
   .trainers {
-    text-align: center;
+    
   }
 
   .trainer {
@@ -250,13 +251,7 @@
     width: 65%;
   }
 
-  .text-left {
-    text-align: left;
-  }
   
-  .text-right {
-    text-align: right;
-  }
 
   .trainer-bio h3 {
     font-size: 32px;
@@ -278,7 +273,7 @@
 
   .contact {
     background-color: #024e76;
-    text-align: center;
+    
   }
   
   .contact h2{
@@ -321,4 +316,14 @@
 
   /* REACH OUT STYLES END */ 
 
+  .text-left {
+    text-align: left;
+  }
   
+  .text-right {
+    text-align: right;
+  }
+
+  .flex-row {
+    display: flex;
+  }
