@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Run Buddy Inc.
 
 ## Purpose
@@ -14,4 +12,3 @@ https://lernantino.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Brittani Court
->>>>>>> main
