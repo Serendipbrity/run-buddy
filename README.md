@@ -8,6 +8,8 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
+https://serendipbrity.github.io/run-buddy/
+
 https://lernantino.github.io/run-buddy/
 
 ## Contribution
